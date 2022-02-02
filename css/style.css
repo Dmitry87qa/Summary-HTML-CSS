@@ -1,0 +1,107 @@
+body {
+   background-image: url(../images/fon.jpg);
+    position: absolute;
+    z-index: 1;
+}
+
+.img {
+    position: relative;
+    width: 140px;
+    height: 170px;
+    top: 13px;
+    left: 15px;
+    background-color: black;
+    border: 5px black;
+    border-radius: 15px;
+    z-index: 3;
+}
+
+.main {
+position: absolute;
+width: 520px;
+height: 590px;
+background-color: skyblue;
+border: 3px solid black;
+border-radius: 15px;
+z-index: 2;
+left: 370px;
+top: 5px;
+}
+
+img {
+    width: 140px;
+    height: 170px;
+}
+
+.Резюме {
+    position: relative;
+    width: 150px;
+    height: 80px;
+    left: 550px;
+    top: 10px;
+    z-index: 6;
+}
+
+.test {
+    position: absolute;
+    width: 100px;
+    height: 110px;
+    top: 112px;
+    right: 255px;
+    z-index: 5;
+
+}
+
+.text1 {
+    position: absolute;
+    background-color: whitesmoke;
+    width: 150px;
+    height: 165px;
+    top: 15px;
+    right: 15px;
+    text-indent: 3px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.text2 {
+    position: absolute;
+    width: 514px;
+    height: 110px;
+    top: 185px;
+    right: 0px;
+    background-color:skyblue;
+}
+
+.text3 {
+    position:relative;
+    width: 516px;
+    height: 110px;
+    top: -2px;
+    left: 5px;
+}
+
+.text4 {
+    position: relative;
+    width: 148px;
+    height: 110px;
+    top: 5px;
+    left: 410px;
+
+}
+
+.text5 {
+    position: absolute;
+    width: 516px;
+    height: 120px;
+    top: 200px;
+    right: 40px;
+}
+
+.footer {
+    position: relative;
+    width: 516px;
+    height: 120px;
+    left: 10px;
+    top: 210px;
+}
